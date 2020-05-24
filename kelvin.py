@@ -1,5 +1,4 @@
-
-print "welcome in"
+print "welcome in "
 def hello():
     print "hello welcome in Ro706"                                 hello()
 c = input ("c:")                                                   k = c + 274.15
